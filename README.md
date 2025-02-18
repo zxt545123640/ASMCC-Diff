@@ -14,26 +14,13 @@ Abstract—Thanks to the emergence of generative models, Chinese Landscape Paint
 
 ## Results
 
-- Quantitative Comparison
 
-
-<p align="center">
-<img src="docs/Experiment.png" >  
-<br>
-</p>
-
-
-- Ablation Analysis
 <p align="center">
 <img src="docs/20250218-105027.png" >  
 <br>
 </p>
 
-- User preference
-<p align="center">
-<img src="docs/UserStudy.png" >  
-<br>
-</p>
+
 
 ## Cite
 
