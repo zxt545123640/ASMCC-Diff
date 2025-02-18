@@ -9,7 +9,7 @@ Abstract—Thanks to the emergence of generative models, Chinese Landscape Paint
 
 
 
-![Structure](D:\research\ASMCC-Diff\docs\Structure.png)
+![Structure](./ASMCC-Diff/docs/Structure.png)
 
 ## Results
 
@@ -17,17 +17,17 @@ Abstract—Thanks to the emergence of generative models, Chinese Landscape Paint
 
 
 
-![Experiment](D:\research\ASMCC-Diff\docs\Experiment.png)
+![Experiment](./ASMCC-Diff/docs/Experiment.png)
 
 
 
 - Ablation Analysis
 
-  ![20250218-105027](D:\research\ASMCC-Diff\docs\20250218-105027.png)
+  ![20250218-105027](./ASMCC-Diff/docs/20250218-105027.png)
 
 - User preference
 
-![UserStudy](D:\research\ASMCC-Diff\docs\UserStudy.png)
+![UserStudy](./ASMCC-Diff/docs/UserStudy.png)
 
 ## Cite
 
