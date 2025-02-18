@@ -24,7 +24,6 @@ Abstract—Thanks to the emergence of generative models, Chinese Landscape Paint
 
 
 - Ablation Analysis
-- 
 <p align="center">
 <img src="docs/20250218-105027.png" >  
 <br>
