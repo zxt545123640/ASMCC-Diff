@@ -8,7 +8,7 @@ Abstract—Thanks to the emergence of generative models, Chinese Landscape Paint
 ## Approaches
 
 <p align="center">
-<img src="/ASMCC-Diff/docs/Structure.png" >  
+<img src="docs/Structure.png" >  
 <br>
 </p>
 
@@ -18,7 +18,7 @@ Abstract—Thanks to the emergence of generative models, Chinese Landscape Paint
 
 
 <p align="center">
-<img src="/ASMCC-Diff/docs/Experiment.png" >  
+<img src="docs/Experiment.png" >  
 <br>
 </p>
 
@@ -26,13 +26,13 @@ Abstract—Thanks to the emergence of generative models, Chinese Landscape Paint
 - Ablation Analysis
 - 
 <p align="center">
-<img src="/ASMCC-Diff/docs/20250218-105027.png" >  
+<img src="docs/20250218-105027.png" >  
 <br>
 </p>
 
 - User preference
 <p align="center">
-<img src="/ASMCC-Diff/docs/UserStudy.png" >  
+<img src="docs/UserStudy.png" >  
 <br>
 </p>
 
